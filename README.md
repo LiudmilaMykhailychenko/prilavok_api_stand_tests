@@ -20,7 +20,7 @@
 - `get_new_user_token()` - создает пользователя и возвращает токен авторизации
 - `post_new_client_kit(kit_body, auth_token)` - создает новый набор
 
-### create_kit_name_kit_test.py
+### test_create_kit_name_kit.py
 Тестовые случаи, охватывающие различные сценарии валидации имени набора.
 
 ## Тестовые случаи
